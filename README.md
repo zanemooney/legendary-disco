@@ -23,18 +23,6 @@ Founded in 2012, Elephant Bookstore is a beloved independent bookstore located i
   - Events
   - About
   - Contact
----
-
-## Hero Section
-- Large Featured Image (Cozy bookstore / bookshelves / elephant motif)
-- Headline:
-  - "A Home for Curious Readers"
-- Subheadline:
-  - "New, used, and well-loved books with stories beyond the page."
-- Primary CTA:
-  - [Browse Books]
-- Secondary CTA:
-  - [Visit Us In-Store]
 
 ---
 
