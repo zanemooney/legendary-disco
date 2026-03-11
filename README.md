@@ -8,7 +8,7 @@ Founded in 2012, Elephant Bookstore is a beloved independent bookstore located i
 
 ## Wireframe
 
-![Wireframe](https://github.com/zanemooney/legendary-disco/blob/main/elephantBookstoreWireframe.png?raw=true)
+![Wireframe]([https://github.com/zanemooney/legendary-disco/blob/main/elephantBookstoreWireframe.png?raw=true](https://github.com/zanemooney/legendary-disco/blob/main/imgs/elephantBookstoreWireframe.png?raw=true))
 
 ## System Requirements
 - [x] Implement all pictures provided by business
